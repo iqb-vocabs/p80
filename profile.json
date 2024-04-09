@@ -1,0 +1,275 @@
+{
+  "id": "https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json",
+  "label": [{
+    "lang": "de",
+    "value": "VerbundFDB-Kernset_v1"
+  }],
+  "groups": [
+    {
+      "label": [
+        {
+          "lang": "de",
+          "value": "Profil"
+        }
+      ],
+      "entries": [
+        {
+          "id": "e1",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Datentyp_Art der Daten"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v85/dt/",
+            "allowMultipleValues": true,
+            "hideNumbering": true
+          }
+        },
+        {
+          "id": "iqb_resource_id",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Resource Identifier"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_title",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Titel der Studie_Studientitel"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_creator_person",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Primärforscher dieser Studie_Beteiligte Wissenschaftler/innen"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_creator_institution",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Institution(en)_Beteiligte Institution(en)"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_doi",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Identifier_Datenzugang"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_date",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Bereitstellungsdatum_Veröffentlichungsdatum"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_verfuegbarkeit",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Verfügbarkeit_Zugänglichkeit"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_contributor",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Archivierende Einrichtung"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_sample",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Grundgesamtheit/Population_Population/Stichprobe"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "e2",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Auswahlverfahren"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v25/ve/",
+            "allowMultipleValues": false,
+            "hideNumbering": true
+          }
+        },
+
+        {
+          "id": "iqb_time_coverage",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Zeitraum von/bis_Erhebungszeitraum von/bis"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_time_dimension",
+          "label": [
+            {
+              "lang": "de",
+              "value": "zeitliche Dimension_Untersuchungsdesign"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "e3",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Erhebungsverfahren"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v85/v1/",
+            "allowMultipleValues": false,
+            "hideNumbering": true
+          }
+        },
+        {
+          "id": "iqb_description",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Inhaltliche-methodische Beschreibung_Inhaltliche Angaben"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_geo_coverage",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Untersuchungsgebiet (geogr.)"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_classification",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Classification External (VerbundFDB)"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "iqb_keywords",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Schlagwörter"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
+        {
+          "id": "e4",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Erhebungseinheit_Untersuchungseinheit(en)"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v85/ee/",
+            "allowMultipleValues": true,
+            "hideNumbering": false
+          }
+        }
+      ]
+    }
+  ]
+}

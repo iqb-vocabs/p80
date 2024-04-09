@@ -1,0 +1,13 @@
+{
+  "id": "fdzkb",
+  "title": [
+    {
+      "lang": "de",
+      "value": "FDZ Metadatenprofile: Kernset Bildungsforschung (Version 1.0)"
+    }
+  ],
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "profiles": [
+    "profile.json"
+  ]
+}

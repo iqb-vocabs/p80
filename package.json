@@ -1,0 +1,21 @@
+{
+  "name": "p80",
+  "version": "0.1.0",
+  "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "license": "CC0-1.0",
+  "description": "FDZ Metadatenprofil: Kernset Bildungsforschung",
+  "scripts": {
+    "validate": "validate-md-profile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/p80.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/p80/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/p80#readme",
+  "dependencies": {
+    "@iqb/validate-md-profile": "^0.6.0"
+  }
+}
