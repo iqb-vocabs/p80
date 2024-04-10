@@ -22,7 +22,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.jso
 | Verfügbarkeit_Zugänglichkeit | Text |Einzeilig, Sprache(n): de | iqb_verfuegbarkeit |
 | Archivierende Einrichtung | Text |Einzeilig, Sprache(n): de | iqb_contributor |
 | Grundgesamtheit/Population_Population/Stichprobe | Text |Einzeilig, Sprache(n): de | iqb_sample |
-| Auswahlverfahren | [Vokabular](https://w3id.org/iqb/v25/ve/) | url: 'https://w3id.org/iqb/v25/ve/', Einmalauswahl, verberge Nummerierung | e2 |
+| Auswahlverfahren | [Vokabular](https://w3id.org/iqb/v85/av/) | url: 'https://w3id.org/iqb/v85/av/', Einmalauswahl, verberge Nummerierung | e2 |
 | Zeitraum von/bis_Erhebungszeitraum von/bis | Text |Einzeilig, Sprache(n): de | iqb_time_coverage |
 | zeitliche Dimension_Untersuchungsdesign | Text |Einzeilig, Sprache(n): de | iqb_time_dimension |
 | Erhebungsverfahren | [Vokabular](https://w3id.org/iqb/v85/v1/) | url: 'https://w3id.org/iqb/v85/v1/', Einmalauswahl, verberge Nummerierung | e3 |

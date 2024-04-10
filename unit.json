@@ -155,7 +155,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v25/ve/",
+            "url": "https://w3id.org/iqb/v85/av/",
             "allowMultipleValues": false,
             "hideNumbering": true
           }
