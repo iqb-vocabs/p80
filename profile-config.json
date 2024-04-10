@@ -8,6 +8,7 @@
   ],
   "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "profiles": [
-    "unit.json"
+    "unit.json",
+    "item.json"
   ]
 }
