@@ -4,9 +4,9 @@ ID of profile-store: `fdzkb`
 
 Autor/Organisation: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
-2 Profile definiert:
+1 Profil definiert:
 
-## Profil "VerbundFDB-Kernset -- Hauptangaben"
+## Profil "VerbundFDB-Kernset"
 
 ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json`
 
@@ -16,6 +16,9 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.jso
 | :--- | :---: | :--- | :---: |
 | Titel der Studie | Text |Einzeilig, Sprache(n): de | iqb_title |
 | DOI | Text |Einzeilig, Sprache(n): de | iqb_doi |
+| Veröffentlichungsdatum | Text |Einzeilig, Sprache(n): de | iqb_date |
+| Verfügbarkeit | Text |Einzeilig, Sprache(n): de | iqb_verfuegbarkeit |
+| Schlagwörter | Text |Einzeilig, Sprache(n): de | iqb_keywords |
 | Inhaltliche Angaben | Text |Einzeilig, Sprache(n): de | iqb_description |
 
 ### Creator
@@ -24,24 +27,19 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.jso
 | :--- | :---: | :--- | :---: |
 | Beteiligte Wissenschaftler/innen | Text |Einzeilig, Sprache(n): de | iqb_creator_person |
 | Beteiligte Institution(en) | Text |Einzeilig, Sprache(n): de | iqb_creator_institution |
-| Datentyp_Art der Daten | [Vokabular](https://w3id.org/iqb/v85/dt/) | url: 'https://w3id.org/iqb/v85/dt/', Mehrfachauswahl, verberge Nummerierung | e1 |
 | Archivierende Einrichtung | Text |Einzeilig, Sprache(n): de | iqb_contributor |
 
-## Profil "VerbundFDB-Kernset -- zusätliche Angaben"
-
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/item.json`
+### zusätliche Angaben
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Veröffentlichungsdatum | Text |Einzeilig, Sprache(n): de | iqb_date |
-| Verfügbarkeit | Text |Einzeilig, Sprache(n): de | iqb_verfuegbarkeit |
+| Art der Daten | [Vokabular](https://w3id.org/iqb/v85/dt/) | url: 'https://w3id.org/iqb/v85/dt/', Mehrfachauswahl, verberge Nummerierung | e1 |
 | Population / Stichprobe | Text |Einzeilig, Sprache(n): de | iqb_sample |
 | Auswahlverfahren | [Vokabular](https://w3id.org/iqb/v85/av/) | url: 'https://w3id.org/iqb/v85/av/', Einmalauswahl, verberge Nummerierung | e2 |
 | Erhebungszeitraum von / bis | Text |Einzeilig, Sprache(n): de | iqb_time_coverage |
 | Untersuchungsdesign | Text |Einzeilig, Sprache(n): de | iqb_time_dimension |
-| Erhebungsverfahren | [Vokabular](https://w3id.org/iqb/v85/v1/) | url: 'https://w3id.org/iqb/v85/v1/', Einmalauswahl, verberge Nummerierung | e3 |
+| Erhebungsverfahren | [Vokabular](https://w3id.org/iqb/v85/v1/) | url: 'https://w3id.org/iqb/v85/v1/', Mehrfachauswahl, verberge Nummerierung | e3 |
 | Untersuchungsgebiet (geogr.) | Text |Einzeilig, Sprache(n): de | iqb_geo_coverage |
 | Classification External (VerbundFDB) | Text |Einzeilig, Sprache(n): de | iqb_classification |
-| Schlagwörter | Text |Einzeilig, Sprache(n): de | iqb_keywords |
-| Erhebungseinheit_Untersuchungseinheit(en) | [Vokabular](https://w3id.org/iqb/v85/ee/) | url: 'https://w3id.org/iqb/v85/ee/', Mehrfachauswahl | e4 |
+| Untersuchungseinheit(en) | [Vokabular](https://w3id.org/iqb/v85/ee/) | url: 'https://w3id.org/iqb/v85/ee/', Mehrfachauswahl | e4 |
 
