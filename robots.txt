@@ -1,1 +1,1 @@
-Sitemap: https://iqb-vocabs.github.io/p11/sitemap.xml
+Sitemap: https://iqb-vocabs.github.io/p80/sitemap.xml
