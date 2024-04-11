@@ -53,16 +53,18 @@
           }
         },
         {
-          "id": "iqb_verfuegbarkeit",
+          "id": "e0",
           "label": [
             {
               "lang": "de",
               "value": "Verfügbarkeit"
             }
           ],
-          "type": "text",
+          "type": "vocabulary",
           "parameters": {
-            "format": "single"
+            "url": "https://w3id.org/iqb/v85/vf/",
+            "allowMultipleValues": false,
+            "hideNumbering": true
           }
         },
         {
@@ -146,12 +148,27 @@
       "label": [
         {
           "lang": "de",
-          "value": "zusätliche Angaben"
+          "value": "zusätzliche Angaben"
         }
       ],
       "entries": [
         {
           "id": "e1",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Datenformat"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v85/df/",
+            "allowMultipleValues": false,
+            "hideNumbering": true
+          }
+        },
+        {
+          "id": "e2",
           "label": [
             {
               "lang": "de",
@@ -179,7 +196,7 @@
           }
         },
         {
-          "id": "e2",
+          "id": "e3",
           "label": [
             {
               "lang": "de",
@@ -207,20 +224,22 @@
           }
         },
         {
-          "id": "iqb_time_dimension",
+          "id": "e4",
           "label": [
             {
               "lang": "de",
               "value": "Untersuchungsdesign"
             }
           ],
-          "type": "text",
+          "type": "vocabulary",
           "parameters": {
-            "format": "single"
+            "url": "https://w3id.org/iqb/v85/ed/",
+            "allowMultipleValues": false,
+            "hideNumbering": true
           }
         },
         {
-          "id": "e3",
+          "id": "e5",
           "label": [
             {
               "lang": "de",
@@ -229,7 +248,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v85/v1/",
+            "url": "https://w3id.org/iqb/v85/v2/",
             "allowMultipleValues": true,
             "hideNumbering": true
           }
@@ -239,12 +258,27 @@
           "label": [
             {
               "lang": "de",
-              "value": "Untersuchungsgebiet (geogr.)"
+              "value": "Untersuchungsgebiet"
             }
           ],
           "type": "text",
           "parameters": {
             "format": "single"
+          }
+        },
+        {
+          "id": "e6",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Erhebungseinheit"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v85/ee/",
+            "allowMultipleValues": true,
+            "hideNumbering": false
           }
         },
         {
@@ -258,21 +292,6 @@
           "type": "text",
           "parameters": {
             "format": "single"
-          }
-        },
-        {
-          "id": "e4",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Untersuchungseinheit(en)"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v85/ee/",
-            "allowMultipleValues": true,
-            "hideNumbering": false
           }
         }
       ]
