@@ -3,6 +3,7 @@ project:
 
 website:
   site-url: https://iqb-vocabs.github.io/p80/
+  title: ""
   favicon: favicon.ico
   page-navigation: true
   repo-url: https://github.com/iqb-vocabs/p80/
@@ -10,7 +11,7 @@ website:
     logo: IQB-Klein.png
     search: true
     left:
-        - text: "VerbundFDB-Metadatenprofil Kernset Bildungsforschung (Version 1.0)"
+        - text: ""
           href: index.qmd
 
 format:
