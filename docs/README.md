@@ -1,4 +1,4 @@
-# FDZ Metadatenprofile: Kernset Bildungsforschung (Version 1.0)
+# VerbundFDB-Metadatenprofil: Kernset Bildungsforschung (Version 1.0)
 
 ID of profile-store: `fdzkb`
 
