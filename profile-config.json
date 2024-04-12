@@ -6,7 +6,8 @@
       "value": "FDZ Metadatenprofile: Kernset Bildungsforschung (Version 1.0)"
     }
   ],
-  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "publisher": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "maintainer": "VerbundFDB: AG Metadaten",
   "profiles": [
     "unit.json"
   ]

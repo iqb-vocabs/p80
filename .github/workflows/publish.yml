@@ -24,6 +24,7 @@ jobs:
       - run: |
           npm ci
           npm run validate
+          npm run validate -quarto
       - name: Archive production artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -32,7 +33,7 @@ jobs:
           retention-days: 1
           overwrite: true
       - name: Rename
-        run: mv docs/README.md index.qmd
+        run: mv docs/README.qmd index.qmd
 
       - name : Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -41,7 +42,6 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-        
+
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
