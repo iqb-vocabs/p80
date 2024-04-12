@@ -1,9 +1,9 @@
 {
   "name": "p80",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0-1.0",
-  "description": "FDZ Metadatenprofil: Kernset Bildungsforschung",
+  "description": "VerbundFDB-Metadatenprofil: Kernset Bildungsforschung (Version 1.0)",
   "scripts": {
     "validate": "validate-md-profile"
   },

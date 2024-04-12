@@ -14,7 +14,7 @@
       ],
       "entries": [
         {
-          "id": "iqb_title",
+          "id": "p1",
           "label": [
             {
               "lang": "de",
@@ -27,7 +27,7 @@
           }
         },
         {
-          "id": "iqb_doi",
+          "id": "p2",
           "label": [
             {
               "lang": "de",
@@ -40,7 +40,7 @@
           }
         },
         {
-          "id": "iqb_date",
+          "id": "p3",
           "label": [
             {
               "lang": "de",
@@ -68,7 +68,7 @@
           }
         },
         {
-          "id": "iqb_keywords",
+          "id": "p4",
           "label": [
             {
               "lang": "de",
@@ -81,7 +81,7 @@
           }
         },
         {
-          "id": "iqb_description",
+          "id": "p5",
           "label": [
             {
               "lang": "de",
@@ -104,7 +104,7 @@
       ],
       "entries": [
         {
-          "id": "iqb_creator_person",
+          "id": "p6",
           "label": [
             {
               "lang": "de",
@@ -117,7 +117,7 @@
           }
         },
         {
-          "id": "iqb_creator_institution",
+          "id": "p7",
           "label": [
             {
               "lang": "de",
@@ -130,7 +130,7 @@
           }
         },
         {
-          "id": "iqb_contributor",
+          "id": "p8",
           "label": [
             {
               "lang": "de",
@@ -183,7 +183,7 @@
           }
         },
         {
-          "id": "iqb_sample",
+          "id": "p9",
           "label": [
             {
               "lang": "de",
@@ -211,7 +211,7 @@
           }
         },
         {
-          "id": "iqb_time_coverage",
+          "id": "t1",
           "label": [
             {
               "lang": "de",
@@ -254,7 +254,7 @@
           }
         },
         {
-          "id": "iqb_geo_coverage",
+          "id": "t2",
           "label": [
             {
               "lang": "de",
@@ -282,7 +282,7 @@
           }
         },
         {
-          "id": "iqb_classification",
+          "id": "t3",
           "label": [
             {
               "lang": "de",
