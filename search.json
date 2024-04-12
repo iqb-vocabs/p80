@@ -2,28 +2,28 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Profil VerbundFDB-Kernset",
+    "title": "VerbundFDB-Metadatenprofil - Kernset Bildungsforschung (Version 1.0)",
     "section": "",
-    "text": "title: FDZ Metadatenprofile: Kernset Bildungsforschung (Version 1.0)\nID of profile-store: fdzkb\nPublisher: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\nMaintainer: VerbundFDB: AG Metadaten\n1 Profil definiert:"
+    "text": "ID of profile-store: fdzkb\nPublisher: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\nMaintainer: VerbundFDB: AG Metadaten\n1 Profil definiert:"
   },
   {
     "objectID": "index.html#hauptangaben",
     "href": "index.html#hauptangaben",
-    "title": "Profil VerbundFDB-Kernset",
+    "title": "VerbundFDB-Metadatenprofil - Kernset Bildungsforschung (Version 1.0)",
     "section": "Hauptangaben",
     "text": "Hauptangaben\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nTitel der Studie\nText\nEinzeilig, Sprache(n): de\np1\n\n\nDOI\nText\nEinzeilig, Sprache(n): de\np2\n\n\nVeröffentlichungsdatum\nText\nEinzeilig, Sprache(n): de\np3\n\n\nVerfügbarkeit\nVokabular\nurl: ‘https://w3id.org/iqb/v85/vf/’, Einmalauswahl, verberge Nummerierung\ne0\n\n\nSchlagwörter\nText\nEinzeilig, Sprache(n): de\np4\n\n\nInhaltliche Angaben\nText\nEinzeilig, Sprache(n): de\np5"
   },
   {
     "objectID": "index.html#creator",
     "href": "index.html#creator",
-    "title": "Profil VerbundFDB-Kernset",
+    "title": "VerbundFDB-Metadatenprofil - Kernset Bildungsforschung (Version 1.0)",
     "section": "Creator",
     "text": "Creator\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nBeteiligte Wissenschaftler/innen\nText\nEinzeilig, Sprache(n): de\np6\n\n\nBeteiligte Institution(en)\nText\nEinzeilig, Sprache(n): de\np7\n\n\nArchivierende Einrichtung\nText\nEinzeilig, Sprache(n): de\np8"
   },
   {
     "objectID": "index.html#zusätzliche-angaben",
     "href": "index.html#zusätzliche-angaben",
-    "title": "Profil VerbundFDB-Kernset",
+    "title": "VerbundFDB-Metadatenprofil - Kernset Bildungsforschung (Version 1.0)",
     "section": "zusätzliche Angaben",
     "text": "zusätzliche Angaben\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nDatenformat\nVokabular\nurl: ‘https://w3id.org/iqb/v85/df/’, Einmalauswahl, verberge Nummerierung\ne1\n\n\nArt der Daten\nVokabular\nurl: ‘https://w3id.org/iqb/v85/dt/’, Mehrfachauswahl, verberge Nummerierung\ne2\n\n\nPopulation / Stichprobe\nText\nEinzeilig, Sprache(n): de\np9\n\n\nAuswahlverfahren\nVokabular\nurl: ‘https://w3id.org/iqb/v85/av/’, Einmalauswahl, verberge Nummerierung\ne3\n\n\nErhebungszeitraum von / bis\nText\nEinzeilig, Sprache(n): de\nt1\n\n\nUntersuchungsdesign\nVokabular\nurl: ‘https://w3id.org/iqb/v85/ed/’, Einmalauswahl, verberge Nummerierung\ne4\n\n\nErhebungsverfahren\nVokabular\nurl: ‘https://w3id.org/iqb/v85/v2/’, Mehrfachauswahl, verberge Nummerierung\ne5\n\n\nUntersuchungsgebiet\nText\nEinzeilig, Sprache(n): de\nt2\n\n\nErhebungseinheit\nVokabular\nurl: ‘https://w3id.org/iqb/v85/ee/’, Mehrfachauswahl\ne6\n\n\nClassification External (VerbundFDB)\nText\nEinzeilig, Sprache(n): de\nt3"
   }
