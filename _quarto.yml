@@ -7,7 +7,7 @@ website:
   page-navigation: true
   repo-url: https://github.com/iqb-vocabs/p80/
   navbar:
-    logo: IQB-Klein.png
+    logo: IQB-klein.png
     search: true
     left:
         - href: index.qmd
