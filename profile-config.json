@@ -3,11 +3,11 @@
   "title": [
     {
       "lang": "de",
-      "value": "VerbundFDB-Metadatenprofil - Kernset Bildungsforschung (Version 1.0)"
+      "value": "VerbundFDB-Metadatenprofil: Kernset Bildungsforschung (Version 1.0)"
     }
   ],
-  "publisher": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
-  "maintainer": "VerbundFDB: AG Metadaten",
+  "maintainer": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "publisher": "VerbundFDB: AG Metadaten",
   "creator": "",
   "profiles": [
     "unit.json"
