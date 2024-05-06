@@ -12,7 +12,13 @@ website:
     left:
         - href: index.qmd
           text: "VerbundFDB-Metadatenprofil: Kernset Bildungsforschung (Version 1.0)"
+    right:
+      - icon: github
+        href: https://github.com/iqb-vocabs/p80
+        aria-label: Source Code
 
+
+lang: de
 format:
   html:
     theme: cosmo
