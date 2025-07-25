@@ -5,7 +5,7 @@
   "license": "CC0-1.0",
   "description": "VerbundFDB-Metadatenprofil: Kernset Bildungsforschung (Version 1.0)",
   "scripts": {
-    "validate": "validate-md-profile"
+    "validate": "validate-md-profile && validate-md-profile -md"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/p80#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.7.5"
+    "@iqb/validate-md-profile": "^0.9.1"
   }
 }

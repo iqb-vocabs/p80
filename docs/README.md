@@ -1,0 +1,48 @@
+# VerbundFDB-Metadatenprofil: Kernset Bildungsforschung (Version 1.0)
+
+ID of profile-store: `fdzkb`
+
+Creator: VerbundFDB: AG Metadaten
+
+Maintainer: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
+
+1 Profil definiert:
+
+## Profil "Profil VerbundFDB - Kernset"
+
+ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json`
+
+### Hauptangaben
+
+| Name/Label | Typ | Parameter | ID Profil-Eintrag |
+| :--- | :---: | :--- | :---: |
+| Titel der Studie | Text | Einzeilig, Sprache(n): de   | p1 |
+| DOI | Text | Einzeilig, Sprache(n): de   | p2 |
+| Veröffentlichungsdatum | Text | Einzeilig, Sprache(n): de   | p3 |
+| Verfügbarkeit | [Vokabular](https://w3id.org/iqb/v85/vf/) | url: 'https://w3id.org/iqb/v85/vf/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e0 |
+| Schlagwörter | Text | Einzeilig, Sprache(n): de   | p4 |
+| Inhaltliche Angaben | Text | Einzeilig, Sprache(n): de   | p5 |
+
+### Creator
+
+| Name/Label | Typ | Parameter | ID Profil-Eintrag |
+| :--- | :---: | :--- | :---: |
+| Beteiligte Wissenschaftler/innen | Text | Einzeilig, Sprache(n): de   | p6 |
+| Beteiligte Institution(en) | Text | Einzeilig, Sprache(n): de   | p7 |
+| Archivierende Einrichtung | Text | Einzeilig, Sprache(n): de   | p8 |
+
+### zusätzliche Angaben
+
+| Name/Label | Typ | Parameter | ID Profil-Eintrag |
+| :--- | :---: | :--- | :---: |
+| Datenformat | [Vokabular](https://w3id.org/iqb/v85/df/) | url: 'https://w3id.org/iqb/v85/df/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e1 |
+| Art der Daten | [Vokabular](https://w3id.org/iqb/v85/dt/) | url: 'https://w3id.org/iqb/v85/dt/', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | e2 |
+| Population / Stichprobe | Text | Einzeilig, Sprache(n): de   | p9 |
+| Auswahlverfahren | [Vokabular](https://w3id.org/iqb/v85/av/) | url: 'https://w3id.org/iqb/v85/av/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e3 |
+| Erhebungszeitraum von / bis | Text | Einzeilig, Sprache(n): de   | t1 |
+| Untersuchungsdesign | [Vokabular](https://w3id.org/iqb/v85/ed/) | url: 'https://w3id.org/iqb/v85/ed/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e4 |
+| Erhebungsverfahren | [Vokabular](https://w3id.org/iqb/v85/v2/) | url: 'https://w3id.org/iqb/v85/v2/', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | e5 |
+| Untersuchungsgebiet | Text | Einzeilig, Sprache(n): de   | t2 |
+| Erhebungseinheit | [Vokabular](https://w3id.org/iqb/v85/ee/) | url: 'https://w3id.org/iqb/v85/ee/', Mehrfachauswahl, Dialogbox | e6 |
+| Classification External (VerbundFDB) | Text | Einzeilig, Sprache(n): de   | t3 |
+

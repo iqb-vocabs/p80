@@ -7,8 +7,7 @@
     }
   ],
   "maintainer": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
-  "publisher": "VerbundFDB: AG Metadaten",
-  "creator": "",
+  "creator": "VerbundFDB: AG Metadaten",
   "profiles": [
     "unit.json"
   ]
