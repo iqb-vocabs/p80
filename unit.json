@@ -1,9 +1,14 @@
 {
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json",
-  "label": [{
-    "lang": "de",
-    "value": "Profil VerbundFDB - Kernset"
-  }],
+  "label": [
+    {
+      "lang": "de",
+      "value": "Profil VerbundFDB - Kernset"
+    }
+  ],
+  "target": [
+    "UNIT"
+  ],
   "groups": [
     {
       "label": [
@@ -21,9 +26,9 @@
               "value": "Titel der Studie"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -34,9 +39,9 @@
               "value": "DOI"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -47,9 +52,9 @@
               "value": "Veröffentlichungsdatum"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -60,7 +65,7 @@
               "value": "Verfügbarkeit"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v85/vf/",
             "allowMultipleValues": false,
@@ -75,9 +80,9 @@
               "value": "Schlagwörter"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -88,9 +93,9 @@
               "value": "Inhaltliche Angaben"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         }
       ]
@@ -111,9 +116,9 @@
               "value": "Beteiligte Wissenschaftler/innen"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -124,9 +129,9 @@
               "value": "Beteiligte Institution(en)"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -137,9 +142,9 @@
               "value": "Archivierende Einrichtung"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         }
       ]
@@ -160,7 +165,7 @@
               "value": "Datenformat"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v85/df/",
             "allowMultipleValues": false,
@@ -175,7 +180,7 @@
               "value": "Art der Daten"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v85/dt/",
             "allowMultipleValues": true,
@@ -190,9 +195,9 @@
               "value": "Population / Stichprobe"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -203,7 +208,7 @@
               "value": "Auswahlverfahren"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v85/av/",
             "allowMultipleValues": false,
@@ -218,9 +223,9 @@
               "value": "Erhebungszeitraum von / bis"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -231,7 +236,7 @@
               "value": "Untersuchungsdesign"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v85/ed/",
             "allowMultipleValues": false,
@@ -246,7 +251,7 @@
               "value": "Erhebungsverfahren"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v85/v2/",
             "allowMultipleValues": true,
@@ -261,9 +266,9 @@
               "value": "Untersuchungsgebiet"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -274,7 +279,7 @@
               "value": "Erhebungseinheit"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v85/ee/",
             "allowMultipleValues": true,
@@ -289,9 +294,9 @@
               "value": "Classification External (VerbundFDB)"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         }
       ]

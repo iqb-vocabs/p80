@@ -1,6 +1,6 @@
 {
   "name": "p80",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0-1.0",
   "description": "VerbundFDB-Metadatenprofil: Kernset Bildungsforschung (Version 1.0)",
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/p80#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.9.1"
+    "@iqb/validate-md-profile": "0.10.4"
   }
 }

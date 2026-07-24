@@ -1,5 +1,6 @@
 ---
 title: VerbundFDB-Metadatenprofil - Kernset Bildungsforschung (Version 1.0)
+lang: de
 ---
 
 ID of profile-store: `fdzkb`
@@ -12,7 +13,7 @@ Maintainer: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 # Profil VerbundFDB - Kernset
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json`
+ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json)
 
 ## Hauptangaben
 

@@ -10,7 +10,7 @@ Maintainer: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "Profil VerbundFDB - Kernset"
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json`
+ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json)
 
 ### Hauptangaben
 
