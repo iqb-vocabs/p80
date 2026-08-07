@@ -13,7 +13,7 @@ Maintainer: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 # Profil VerbundFDB - Kernset
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.json)
+ID of profile: [https://w3id.org/iqb/p80/unit/](https://w3id.org/iqb/p80/unit/)
 
 ## Hauptangaben
 
@@ -22,7 +22,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.jso
 | Titel der Studie | Text | Einzeilig, Sprache(n): de   | p1 |
 | DOI | Text | Einzeilig, Sprache(n): de   | p2 |
 | Veröffentlichungsdatum | Text | Einzeilig, Sprache(n): de   | p3 |
-| Verfügbarkeit | [Vokabular](https://w3id.org/iqb/v85/vf/) | url: 'https://w3id.org/iqb/v85/vf/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e0 |
+| Verfügbarkeit | [Vokabular](https://w3id.org/iqb/v85/vf/) | url: '[https://w3id.org/iqb/v85/vf/](https://w3id.org/iqb/v85/vf/)', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e0 |
 | Schlagwörter | Text | Einzeilig, Sprache(n): de   | p4 |
 | Inhaltliche Angaben | Text | Einzeilig, Sprache(n): de   | p5 |
 
@@ -42,15 +42,15 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p80/master/unit.jso
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Datenformat | [Vokabular](https://w3id.org/iqb/v85/df/) | url: 'https://w3id.org/iqb/v85/df/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e1 |
-| Art der Daten | [Vokabular](https://w3id.org/iqb/v85/dt/) | url: 'https://w3id.org/iqb/v85/dt/', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | e2 |
+| Datenformat | [Vokabular](https://w3id.org/iqb/v85/df/) | url: '[https://w3id.org/iqb/v85/df/](https://w3id.org/iqb/v85/df/)', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e1 |
+| Art der Daten | [Vokabular](https://w3id.org/iqb/v85/dt/) | url: '[https://w3id.org/iqb/v85/dt/](https://w3id.org/iqb/v85/dt/)', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | e2 |
 | Population / Stichprobe | Text | Einzeilig, Sprache(n): de   | p9 |
-| Auswahlverfahren | [Vokabular](https://w3id.org/iqb/v85/av/) | url: 'https://w3id.org/iqb/v85/av/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e3 |
+| Auswahlverfahren | [Vokabular](https://w3id.org/iqb/v85/av/) | url: '[https://w3id.org/iqb/v85/av/](https://w3id.org/iqb/v85/av/)', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e3 |
 | Erhebungszeitraum von / bis | Text | Einzeilig, Sprache(n): de   | t1 |
-| Untersuchungsdesign | [Vokabular](https://w3id.org/iqb/v85/ed/) | url: 'https://w3id.org/iqb/v85/ed/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e4 |
-| Erhebungsverfahren | [Vokabular](https://w3id.org/iqb/v85/v2/) | url: 'https://w3id.org/iqb/v85/v2/', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | e5 |
+| Untersuchungsdesign | [Vokabular](https://w3id.org/iqb/v85/ed/) | url: '[https://w3id.org/iqb/v85/ed/](https://w3id.org/iqb/v85/ed/)', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e4 |
+| Erhebungsverfahren | [Vokabular](https://w3id.org/iqb/v85/v2/) | url: '[https://w3id.org/iqb/v85/v2/](https://w3id.org/iqb/v85/v2/)', Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt | e5 |
 | Untersuchungsgebiet | Text | Einzeilig, Sprache(n): de   | t2 |
-| Erhebungseinheit | [Vokabular](https://w3id.org/iqb/v85/ee/) | url: 'https://w3id.org/iqb/v85/ee/', Mehrfachauswahl, Dialogbox | e6 |
+| Erhebungseinheit | [Vokabular](https://w3id.org/iqb/v85/ee/) | url: '[https://w3id.org/iqb/v85/ee/](https://w3id.org/iqb/v85/ee/)', Mehrfachauswahl, Dialogbox | e6 |
 | Classification External (VerbundFDB) | Text | Einzeilig, Sprache(n): de   | t3 |
 
 : {tbl-colwidths="[15,15,55,15]"}
